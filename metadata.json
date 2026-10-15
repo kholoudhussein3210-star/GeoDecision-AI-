@@ -1,0 +1,6 @@
+{
+  "name": "GeoDecision AI",
+  "description": "نظام ذكي لدعم اتخاذ القرار المكاني والتحليل الجغرافي والمقارنة المتعددة المعايير بالذكاء الاصطناعي و GIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
